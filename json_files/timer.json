@@ -1,0 +1,30 @@
+[
+    {
+        "uuid": "5607ee6a-6b90-46a2-b05e-05b405366bdc",
+        "timer_title": null,
+        "time": 329.3785823729995,
+        "round_time": 329.3785823729995,
+        "check_time": 0,
+        "started_at": 1708882777.995191,
+        "stopped_at": 0,
+        "is_start": false,
+        "is_end": false,
+        "match_id": 21,
+        "break_started_at": 0,
+        "timeout_started_at": 0,
+        "timer_type": "round",
+        "real_time": "09:13",
+        "total_time": 329.37861990999954,
+        "discipline": "nba",
+        "countdown": false,
+        "timer_duration": 0,
+        "timeout_duration": 0,
+        "break_duration": 0,
+        "break_time": 0,
+        "timeout_time": 0,
+        "round": 1,
+        "title": "NBA 2K",
+        "round_game": 1,
+        "send_timestamp": 1708883107.4197414
+    }
+]
