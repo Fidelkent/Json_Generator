@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4254a884-847d-4a5f-a9f6-dd9095daf38c" name="Changes" comment="New text append" />
+    <list default="true" id="4254a884-847d-4a5f-a9f6-dd9095daf38c" name="Changes" comment="New text append">
+      <change beforePath="$PROJECT_DIR$/Json_Generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Json_Generator.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,7 +137,7 @@
       <workItem from="1712943241930" duration="1064000" />
       <workItem from="1712944505337" duration="638000" />
       <workItem from="1712945362894" duration="10952000" />
-      <workItem from="1713040830639" duration="1603000" />
+      <workItem from="1713040830639" duration="1844000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -169,7 +171,23 @@
       <option name="project" value="LOCAL" />
       <updated>1713041824327</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="New text append">
+      <option name="closed" value="true" />
+      <created>1713046342493</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713046342493</updated>
+    </task>
+    <task id="LOCAL-00006" summary="New text append">
+      <option name="closed" value="true" />
+      <created>1713046357594</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713046357594</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
