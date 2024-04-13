@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4254a884-847d-4a5f-a9f6-dd9095daf38c" name="Changes" comment="Initial Commit">
-      <change beforePath="$PROJECT_DIR$/Json_Generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Json_Generator.py" afterDir="false" />
-    </list>
+    <list default="true" id="4254a884-847d-4a5f-a9f6-dd9095daf38c" name="Changes" comment="New text append" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,7 +135,7 @@
       <workItem from="1712943241930" duration="1064000" />
       <workItem from="1712944505337" duration="638000" />
       <workItem from="1712945362894" duration="10952000" />
-      <workItem from="1713040830639" duration="972000" />
+      <workItem from="1713040830639" duration="1603000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -163,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713041687173</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="New text append">
+      <option name="closed" value="true" />
+      <created>1713041824327</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713041824327</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,7 +177,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="New text append" />
+    <option name="LAST_COMMIT_MESSAGE" value="New text append" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject1$TEST.coverage" NAME="TEST Coverage Results" MODIFIED="1708962507219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
