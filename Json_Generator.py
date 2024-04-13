@@ -64,3 +64,5 @@ try:
 except KeyboardInterrupt:
     print("Program interrupted by user.")
     # conn.close()
+
+    # Этот текст для проверки работы программы с github
