@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dataSource name="@192.168.0.221">
-  <database-model serializer="dbm" dbms="MYSQL" family-id="MYSQL" format-version="4.49">
+  <database-model serializer="dbm" dbms="MYSQL" family-id="MYSQL" format-version="4.51">
     <root id="1">
       <DefaultCasing>exact</DefaultCasing>
       <DefaultEngine>InnoDB</DefaultEngine>
@@ -1078,8 +1078,7 @@ sys|schema||mysql.sys|localhost|TRIGGER|G</Grants>
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </schema>
     <schema id="292" parent="1" name="json">
-      <IntrospectionTimestamp>2024-04-13.01:16:43</IntrospectionTimestamp>
-      <LocalIntrospectionTimestamp>2024-04-12.22:16:43</LocalIntrospectionTimestamp>
+      <LastIntrospectionLocalTimestamp>2024-04-12.22:16:43</LastIntrospectionLocalTimestamp>
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </schema>
     <user id="293" parent="1" name="root">
