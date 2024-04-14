@@ -1,0 +1,161 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"4254a884-847d-4a5f-a9f6-dd9095daf38c\" name=\"Changes\" comment=\"Initial Commit\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\n  \"lastFilter\": {\n  }\n}]]></component>\r\n  <component name=\"GithubPullRequestsUISettings\">\r\n    <option name=\"selectedUrlAndAccountId\">\r\n      <UrlAndAccount>\r\n        <option name=\"accountId\" value=\"6a8850af-0cdb-43a8-9f0c-9a0e13c053ff\" />\r\n        <option name=\"url\" value=\"git@github.com:/Fidelkent/Json_Generator.py.git\" />\r\n      </UrlAndAccount>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 3\n}</component>\r\n  <component name=\"ProjectId\" id=\"2cpWXHFivBZsONprOaGOKRWYx1g\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"DefaultHtmlFileTemplate\": \"HTML File\",\n    \"JavaScript Debug.index.html.executor\": \"Run\",\n    \"JavaScript Debug.index1.html.executor\": \"Debug\",\n    \"Python.Data_start.executor\": \"Run\",\n    \"Python.TEST.executor\": \"Run\",\n    \"Python.TEST2.executor\": \"Run\",\n    \"Python.TEST_icon.executor\": \"Run\",\n    \"Python.array.executor\": \"Run\",\n    \"Python.learn.executor\": \"Run\",\n    \"Python.umnoje.executor\": \"Run\",\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"WebServerToolWindowFactoryState\": \"false\",\n    \"database.data.extractors.current.export.id\": \"Comma-separated (CSV)_id\",\n    \"database.data.extractors.current.id\": \"Comma-separated (CSV)_id\",\n    \"deletionFromPopupRequiresConfirmation\": \"false\",\n    \"git-widget-placeholder\": \"master\",\n    \"ignore.virus.scanning.warn.message\": \"true\",\n    \"import_schema_mapping\": \"<schema-mapping>\\n  <databases>\\n    <list>\\n      <schema-mapping-item>\\n        <source-data-source-id>2ef1f15e-ae64-4937-aceb-5036b804abd7</source-data-source-id>\\n        <source-path>schema/&quot;main&quot;</source-path>\\n        <target-data-source-id>2ef1f15e-ae64-4937-aceb-5036b804abd7</target-data-source-id>\\n        <target-path>schema/&quot;main&quot;</target-path>\\n      </schema-mapping-item>\\n    </list>\\n  </databases>\\n</schema-mapping>\",\n    \"last_opened_file_path\": \"/Users/fidelkhuzin/Desktop/pythonProject1\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"nodejs_package_manager_path\": \"npm\",\n    \"settings.editor.selected.configurable\": \"org.jetbrains.plugins.github.ui.GithubSettingsConfigurable\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  },\n  \"keyToStringList\": {\n    \"DatabaseDriversLRU\": [\n      \"mysql\"\n    ]\n  }\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"$PROJECT_DIR$\" />\r\n      <recent name=\"C:\\Users\\F-PC\\Desktop\\Pytest\\pythonProject1\" />\r\n      <recent name=\"C:\\Users\\F-PC\\Desktop\\Pytest\\pythonProject1\\Web\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"$PROJECT_DIR$\" />\r\n      <recent name=\"$PROJECT_DIR$/json_files\" />\r\n      <recent name=\"$PROJECT_DIR$/db\" />\r\n      <recent name=\"C:\\Users\\F-PC\\Desktop\\Pytest\\pythonProject1\\Ico\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"4254a884-847d-4a5f-a9f6-dd9095daf38c\" name=\"Changes\" comment=\"\" />\r\n      <created>1708809037476</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1708809037476</updated>\r\n      <workItem from=\"1708809039283\" duration=\"1988000\" />\r\n      <workItem from=\"1708961604368\" duration=\"2138000\" />\r\n      <workItem from=\"1711838004567\" duration=\"78000\" />\r\n      <workItem from=\"1711838089127\" duration=\"20000\" />\r\n      <workItem from=\"1711838112963\" duration=\"151000\" />\r\n      <workItem from=\"1711838295526\" duration=\"2804000\" />\r\n      <workItem from=\"1711882231400\" duration=\"8203000\" />\r\n      <workItem from=\"1711897553753\" duration=\"5908000\" />\r\n      <workItem from=\"1711987803083\" duration=\"3071000\" />\r\n      <workItem from=\"1711994152839\" duration=\"390000\" />\r\n      <workItem from=\"1711997902369\" duration=\"659000\" />\r\n      <workItem from=\"1711998661060\" duration=\"11359000\" />\r\n      <workItem from=\"1712441029437\" duration=\"10000\" />\r\n      <workItem from=\"1712441047083\" duration=\"101000\" />\r\n      <workItem from=\"1712441156658\" duration=\"147000\" />\r\n      <workItem from=\"1712441374226\" duration=\"162000\" />\r\n      <workItem from=\"1712441558733\" duration=\"481000\" />\r\n      <workItem from=\"1712442064702\" duration=\"406000\" />\r\n      <workItem from=\"1712443936575\" duration=\"6536000\" />\r\n      <workItem from=\"1712519563807\" duration=\"124000\" />\r\n      <workItem from=\"1712519697214\" duration=\"233000\" />\r\n      <workItem from=\"1712519960031\" duration=\"4648000\" />\r\n      <workItem from=\"1712527431102\" duration=\"11583000\" />\r\n      <workItem from=\"1712587174047\" duration=\"56000\" />\r\n      <workItem from=\"1712587257681\" duration=\"4486000\" />\r\n      <workItem from=\"1712657071845\" duration=\"21738000\" />\r\n      <workItem from=\"1712943241930\" duration=\"1064000\" />\r\n      <workItem from=\"1712944505337\" duration=\"638000\" />\r\n      <workItem from=\"1712945362894\" duration=\"10952000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Initial Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1713034070246</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1713034070246</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Initial Commit\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Initial Commit\" />\r\n  </component>\r\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\r\n    <SUITE FILE_PATH=\"coverage/pythonProject1$TEST.coverage\" NAME=\"TEST Coverage Results\" MODIFIED=\"1708962507219\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/Json_Generator_py$json_to_sql.coverage\" NAME=\"json to sql Coverage Results\" MODIFIED=\"1712957956610\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/TEST_py$TEST2.coverage\" NAME=\"TEST2 Coverage Results\" MODIFIED=\"1712004694279\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/learn_py$Json_Generator_Timer.coverage\" NAME=\"Json_Generator_Timer Coverage Results\" MODIFIED=\"1712837306648\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/TEST_py$TEST.coverage\" NAME=\"TEST Coverage Results\" MODIFIED=\"1711999968342\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/TEST_py$TEST_icon.coverage\" NAME=\"TEST_icon Coverage Results\" MODIFIED=\"1712006177251\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/learn_py$learn.coverage\" NAME=\"learn Coverage Results\" MODIFIED=\"1712680935748\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/learn_py$TEST2.coverage\" NAME=\"TEST2 Coverage Results\" MODIFIED=\"1712666872896\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/Json_Generator_py$Json_Generator.coverage\" NAME=\"Json_Generator Coverage Results\" MODIFIED=\"1712962402260\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/TEST_py$learn.coverage\" NAME=\"learn Coverage Results\" MODIFIED=\"1712013807693\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/TEST_py$umnoje.coverage\" NAME=\"umnoje Coverage Results\" MODIFIED=\"1711999095852\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/learn_py$db.coverage\" NAME=\"db Coverage Results\" MODIFIED=\"1712665317339\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/db\" />\r\n    <SUITE FILE_PATH=\"coverage/Json_Generator_py$sql_connect.coverage\" NAME=\"sql_connect Coverage Results\" MODIFIED=\"1712962359803\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/learn_py$Json_Generator.coverage\" NAME=\"Json_Generator Coverage Results\" MODIFIED=\"1712838385735\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/TEST_py$Data_start.coverage\" NAME=\"Data_start Coverage Results\" MODIFIED=\"1711989787673\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/learn_py$TEST.coverage\" NAME=\"TEST Coverage Results\" MODIFIED=\"1712691367830\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/learn_py$aa.coverage\" NAME=\"aa Coverage Results\" MODIFIED=\"1712836886413\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -5,7 +5,9 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="4254a884-847d-4a5f-a9f6-dd9095daf38c" name="Changes" comment="Initial Commit">
++      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/json_files/JsonData.json" beforeDir="false" afterPath="$PROJECT_DIR$/json_files/JsonData.json" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -23,15 +25,15 @@
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+-  "lastFilter": {
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
+   }
+-}]]></component>
++}</component>
+   <component name="GithubPullRequestsUISettings">
+     <option name="selectedUrlAndAccountId">
+       <UrlAndAccount>
+-        <option name="accountId" value="6a8850af-0cdb-43a8-9f0c-9a0e13c053ff" />
+-        <option name="url" value="git@github.com:/Fidelkent/Json_Generator.py.git" />
++        <option name="accountId" value="c1b21b67-34b2-43bc-aac8-95bf534f696a" />
++        <option name="url" value="git@github.com:/Fidelkent/Json_Generator.git" />
+       </UrlAndAccount>
+     </option>
+   </component>
+@@ -44,42 +46,42 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "DefaultHtmlFileTemplate": "HTML File",
+-    "JavaScript Debug.index.html.executor": "Run",
+-    "JavaScript Debug.index1.html.executor": "Debug",
+-    "Python.Data_start.executor": "Run",
+-    "Python.TEST.executor": "Run",
+-    "Python.TEST2.executor": "Run",
+-    "Python.TEST_icon.executor": "Run",
+-    "Python.array.executor": "Run",
+-    "Python.learn.executor": "Run",
+-    "Python.umnoje.executor": "Run",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "WebServerToolWindowFactoryState": "false",
+-    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
+-    "database.data.extractors.current.id": "Comma-separated (CSV)_id",
+-    "deletionFromPopupRequiresConfirmation": "false",
+-    "git-widget-placeholder": "master",
+-    "ignore.virus.scanning.warn.message": "true",
+-    "import_schema_mapping": "<schema-mapping>\n  <databases>\n    <list>\n      <schema-mapping-item>\n        <source-data-source-id>2ef1f15e-ae64-4937-aceb-5036b804abd7</source-data-source-id>\n        <source-path>schema/&quot;main&quot;</source-path>\n        <target-data-source-id>2ef1f15e-ae64-4937-aceb-5036b804abd7</target-data-source-id>\n        <target-path>schema/&quot;main&quot;</target-path>\n      </schema-mapping-item>\n    </list>\n  </databases>\n</schema-mapping>",
+-    "last_opened_file_path": "/Users/fidelkhuzin/Desktop/pythonProject1",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
++    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
++    &quot;JavaScript Debug.index1.html.executor&quot;: &quot;Debug&quot;,
++    &quot;Python.Data_start.executor&quot;: &quot;Run&quot;,
++    &quot;Python.TEST.executor&quot;: &quot;Run&quot;,
++    &quot;Python.TEST2.executor&quot;: &quot;Run&quot;,
++    &quot;Python.TEST_icon.executor&quot;: &quot;Run&quot;,
++    &quot;Python.array.executor&quot;: &quot;Run&quot;,
++    &quot;Python.learn.executor&quot;: &quot;Run&quot;,
++    &quot;Python.umnoje.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
++    &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
++    &quot;database.data.extractors.current.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
++    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
++    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
++    &quot;import_schema_mapping&quot;: &quot;&lt;schema-mapping&gt;\n  &lt;databases&gt;\n    &lt;list&gt;\n      &lt;schema-mapping-item&gt;\n        &lt;source-data-source-id&gt;2ef1f15e-ae64-4937-aceb-5036b804abd7&lt;/source-data-source-id&gt;\n        &lt;source-path&gt;schema/&amp;quot;main&amp;quot;&lt;/source-path&gt;\n        &lt;target-data-source-id&gt;2ef1f15e-ae64-4937-aceb-5036b804abd7&lt;/target-data-source-id&gt;\n        &lt;target-path&gt;schema/&amp;quot;main&amp;quot;&lt;/target-path&gt;\n      &lt;/schema-mapping-item&gt;\n    &lt;/list&gt;\n  &lt;/databases&gt;\n&lt;/schema-mapping&gt;&quot;,
++    &quot;last_opened_file_path&quot;: &quot;/Users/fidelkhuzin/Desktop/pythonProject1&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   },
+-  "keyToStringList": {
+-    "DatabaseDriversLRU": [
+-      "mysql"
++  &quot;keyToStringList&quot;: {
++    &quot;DatabaseDriversLRU&quot;: [
++      &quot;mysql&quot;
+     ]
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+       <recent name="$PROJECT_DIR$" />
+@@ -137,6 +139,8 @@
+       <workItem from="1712943241930" duration="1064000" />
+       <workItem from="1712944505337" duration="638000" />
+       <workItem from="1712945362894" duration="10952000" />
++      <workItem from="1713036295714" duration="2290000" />
++      <workItem from="1713127562706" duration="87000" />
+     </task>
+     <task id="LOCAL-00001" summary="Initial Commit">
+       <option name="closed" value="true" />
+@@ -146,13 +150,24 @@
+       <option name="project" value="LOCAL" />
+       <updated>1713034070246</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="Initial Commit">
++      <option name="closed" value="true" />
++      <created>1713036691848</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1713036691848</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
+   <component name="VcsManagerConfiguration">
++    <ignored-roots>
++      <path value="$PROJECT_DIR$" />
++    </ignored-roots>
+     <MESSAGE value="Initial Commit" />
+     <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+   </component>
+@@ -165,7 +180,7 @@
+     <SUITE FILE_PATH="coverage/TEST_py$TEST_icon.coverage" NAME="TEST_icon Coverage Results" MODIFIED="1712006177251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+     <SUITE FILE_PATH="coverage/learn_py$learn.coverage" NAME="learn Coverage Results" MODIFIED="1712680935748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+     <SUITE FILE_PATH="coverage/learn_py$TEST2.coverage" NAME="TEST2 Coverage Results" MODIFIED="1712666872896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+-    <SUITE FILE_PATH="coverage/Json_Generator_py$Json_Generator.coverage" NAME="Json_Generator Coverage Results" MODIFIED="1712962402260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
++    <SUITE FILE_PATH="coverage/Json_Generator_py$Json_Generator.coverage" NAME="Json_Generator Coverage Results" MODIFIED="1713127569428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+     <SUITE FILE_PATH="coverage/TEST_py$learn.coverage" NAME="learn Coverage Results" MODIFIED="1712013807693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+     <SUITE FILE_PATH="coverage/TEST_py$umnoje.coverage" NAME="umnoje Coverage Results" MODIFIED="1711999095852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+     <SUITE FILE_PATH="coverage/learn_py$db.coverage" NAME="db Coverage Results" MODIFIED="1712665317339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" />

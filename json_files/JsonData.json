@@ -1,11 +1,11 @@
 {
     "info": {
-        "id": 3852,
-        "game": "FIFA",
-        "title": "Бананы VS Чебуреки",
-        "round_number": 84,
-        "matchround_id": 1449,
-        "tournament_id": 79
+        "id": 6311,
+        "game": "Dota",
+        "title": "Дети VS Тараканы",
+        "round_number": 51,
+        "matchround_id": 1018,
+        "tournament_id": 78
     },
     "teams": [
         {
@@ -42,12 +42,12 @@
                     "timeout": 1,
                     "change": 16,
                     "shootout_miss": 0,
-                    "point": 1449,
-                    "one_point_goal": 324,
-                    "two_point_goal": 145,
+                    "point": 1018,
+                    "one_point_goal": 216,
+                    "two_point_goal": 163,
                     "assist": 1,
                     "free_throw_goal": 2,
-                    "team_foal": 960,
+                    "team_foal": 747,
                     "foal": 0,
                     "match_win": 0,
                     "shot": 26,
